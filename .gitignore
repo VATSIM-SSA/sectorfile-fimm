@@ -6,10 +6,11 @@
 *.pdf
 
 # Folder Exclusions
-FIMM/Alias/*
-FIMM/NavData/*
-FIMM/ICAO/*
-FIMM/Sounds/*
+FIMM/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
