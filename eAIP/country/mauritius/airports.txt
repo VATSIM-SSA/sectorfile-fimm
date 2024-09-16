@@ -1,0 +1,7 @@
+===== Mauritius Airports =====
+
+^ ICAO      ^ Name                           ^ City          ^ Status            ^ Remarks ^
+| [[airport:fimp:home|FIMP]]  | Sir Seewoosagur Ramgoolam Intl | Mauritius   | //In Development//                | - |
+
+
+{{page>fi-footer#Mauritius}}

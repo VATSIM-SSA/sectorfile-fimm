@@ -1,0 +1,7 @@
+==== Mauritius Airspace ====
+
+^ ICAO  ^ Name      ^ SSA Code  ^ Type    ^ Remarks ^
+| FIMM  | Mauritius | [[airspace:fimm:home|FIMM]]  | -
+
+
+{{page>fi-footer#Mauritius}}

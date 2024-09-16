@@ -1,0 +1,8 @@
+===== Mauritius Information =====
+
+Mauritius, officially the Republic of Mauritius, is an island nation in the Indian Ocean about 2,000 kilometres (1,100 nautical miles) off the southeast coast of the African continent, east of [[country:madagascar:home|Madagascar]]. It includes the main island (also called Mauritius), as well as Rodrigues, Agaléga and St. Brandon. The islands of Mauritius and Rodrigues, along with nearby [[country:reunion:home|Réunion]] (a French overseas department), are part of the Mascarene Islands. The main island of Mauritius, where most of the population is concentrated, hosts the capital and largest city, Port Louis. The country spans 2,040 square kilometres (790 sq mi) and has an exclusive economic zone covering 2,300,000 square kilometres (670,000 square nautical miles). 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Mauritius|Wikipedia]].
+
+
+{{page>fi-footer#Mauritius}}

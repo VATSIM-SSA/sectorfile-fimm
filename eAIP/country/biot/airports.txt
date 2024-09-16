@@ -1,0 +1,7 @@
+===== British Indian Ocean Territory Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[airport:fjdg:home|FJDG]]  | Diego Garcia NSF        | Diego Garcia   | //In Development// | - |
+
+
+{{page>fj-footer#British Indian Ocean Territory}}

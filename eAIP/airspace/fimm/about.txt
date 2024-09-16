@@ -1,0 +1,17 @@
+===== FIMM Mauritius Flight Information Region =====
+
+  * The Mauritius FIR covers the entirety of [[country:mauritius:home|Mauritius]]'s borders. 
+
+==== Airport Coverage ====
+
+Mauritius covers the following airports:
+
+=== British Indian Ocean Territory ===
+
+{{page>country:biot:airports#BIOT Airports}}
+
+=== Mauritius ===
+
+{{page>country:mauritius:airports#Mauritius Airports}}
+
+{{page>fi-footer#FIMM}}
