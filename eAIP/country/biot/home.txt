@@ -1,6 +1,6 @@
 ===== British Indian Ocean Territory | FJ | FSSS =====
 
-{{tabembed>biot-about|About,biot-airspace|Airspace,biot-airports|Airports}}
+{{tabembed>about|About,airspace|Airspace,airports|Airports}}
 
 
 {{page>fj-footer#British Indian Ocean Territory}}
