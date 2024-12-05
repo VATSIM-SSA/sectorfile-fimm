@@ -14,11 +14,11 @@ The Mauritius FIR covers the entirety of Mauritius's borders as well as the BIOT
 ## Countries & Territories
 
 - BIOT
-- Mauritius
+- [Mauritius](https://eaip.vatssa.com/country/mauritius/home)
 
 ## Key Airports
 
-- FIMP |
+- [FIMP](https://eaip.vatssa.com/airport/fimp/home) |
 
 ## How to Contribute
 
