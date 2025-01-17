@@ -1,4 +1,34 @@
 ===== FIMM Mauritius Rules =====
 
+==== Separation ====
+
+  * Satellite based ADS-B coverage is simulated in the Mauritius sector and as such, the following separation standards are to be applied, as per the RNP4 standards:
+
+=== Vertical Separation ===
+
+  * Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspace.
+
+=== Horizontal Separation ===
+
+  * 50NM longitudinal separation may be applied between RNP4 equipped aircraft.
+  * 30 NM longitudinal separation may be applied between RNP 4 approved aircraft cruising , climbing or descending on same track or crossing track (provided that the angle is less than 90 degrees).
+
+  * Within 30 nm of the ARP the minimum lateral separation is 5nm.
+  * Outside of the 30 nm radius to the TMA boundary the lateral separation minima is 7 nm.
+
+  * 80NM or 10 minutes (or less) Mach Number Technique (MNT) separation minima may be applied between aircraft in situations where RNP4 performance requirement can not be complied.
+
+==== SELCAL ====
+
+  * SELCAL is available within the FIMM FIR airspace.
+
+==== SLOP ====
+
+  * The use of SLOP at FIMM Mauritius is in compliance with provisions in ICAO Doc. 4444, between flight level FL290 and FL410 on all enroute ATS routes.
+
+==== VFR Rules ====
+
+  * Flights over populous areas are not allowed below 1500 ft above the highest obstacle within a radius of 2000 ft from the aircraft.
+  
 
 {{page>fi-footer#FIMM}}

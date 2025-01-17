@@ -1,4 +1,6 @@
 ===== FIMM Mauritius Initial Climb =====
 
+^ ICAO ^ RWY   ^ Initial Fix  ^ Initial Climb ^ Remarks ^
+| FIMP | 14-32 | ALL          | FL100         | - |
 
 {{page>fi-footer#FIMM}}
