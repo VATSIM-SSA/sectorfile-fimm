@@ -1,6 +1,8 @@
 {
-	"Name": "FIMM Mauritius FIR v2",
-	"Composites": [
+	"Name": "FIMM Mauritius FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fimm/refs/heads/main/vATIS/FIMM.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Mauritius Sir Seewoosagur Ramgoolam Intl",
 			"Identifier": "FIMP",
