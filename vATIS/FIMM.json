@@ -2,7 +2,7 @@
   "name": "FIMM - Mauritius (2601)",
   "id": "ccde2c75-303b-4304-a9a9-7a7b19fdf5fa",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-fimm/refs/heads/main/vATIS/FIMM.json",
-  "updateSerial": 2026010801,
+  "updateSerial": 1970010100,
   "stations": [
     {
       "id": "668307c6-99bd-4981-826c-238c093367b7",
@@ -1908,14 +1908,14 @@
             }
           ],
           "template": {
-            "text": "TRANSITION LEVEL {trl}",
+            "text": "TRL {trl}",
             "voice": "TRANSITION LEVEL {trl}"
           }
         },
         "notams": {
           "template": {
             "text": "NOTAMS: {notams}",
-            "voice": "NOTICES TO AIR MISSIONS: {notams}"
+            "voice": "NO-TAMS {notams}"
           }
         },
         "closingStatement": {
@@ -1941,8 +1941,8 @@
           "id": "8c9df228-3148-48b4-ac48-92e4ed9b445d",
           "name": "RWY 14",
           "airportConditions": "",
-          "notams": "TWY Y IN PROCESS OF BEING CONVERTED TO STBY RWY. PILOTS ARE TO DISREGARD RWY TYPE MARKINGS ON TWY Y UNTIL FURTHER NOTICE. TWY Y IS NOT AVAILABLE FOR RUNWAY OPERATIONS.\r\nCODE F AIRCRAFT TAXIING VIA TWY H AND N TO STAND 12 TO DISREGARD MAX 65M SPAN WARNING",
-          "template": "FIMP ATIS [ATIS_CODE]\r\n[TIME]\r\nRWY 14 IN USE. EXP ILS Z APCH.\r\nDEPARTURES ADVISE IF BACKTRACK REQUIRED ON INITIAL CTC.\r\nPROVISION OF PDC VIA CPDLC TO DEPARTING AIRCRAFT IS NOT AVAILABLE.\r\n[WIND]\r\n[VIS]\r\n[PRESENT_WX]\r\nCLD [CLOUDS]\r\n[TEMP] / [DEW]\r\n[PRESSURE]\r\n[TREND]\r\n[NOTAMS]\r\nEND OF ATIS [ATIS_CODE]",
+          "notams": "TWY Y IN PROCESS OF BEING CONVERTED TO STBY RWY. PILOTS ARE TO DISREGARD RWY TYPE MARKINGS ON TWY Y UNTIL FURTHER NOTICE. TWY Y IS NOT AVAILABLE FOR RUNWAY OPERATIONS.\r\nCODE F AIRCRAFT TAXIING VIA TWY H AND @N TO STAND 12 TO DISREGARD MAX 65M SPAN WARNING",
+          "template": "FIMP ATIS [ATIS_CODE]\r\n[TIME]\r\nRWY 14 IN USE. EXP ILS Z APCH.\r\n[TL]\r\nDEPARTURES ADVISE IF BACKTRACK REQUIRED ON INITIAL CTC.\r\nPROVISION OF PDC VIA CPDLC TO DEPARTING AIRCRAFT IS NOT AVAILABLE.\r\n[WIND]\r\n[VIS]\r\n[PRESENT_WX]\r\nCLD [CLOUDS]\r\n[TEMP] / [DEW]\r\n[PRESSURE]\r\n[TREND]\r\n[NOTAMS]\r\nEND OF ATIS [ATIS_CODE]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -1957,8 +1957,8 @@
           "id": "d15c85b5-9ef9-44b9-a85b-1c7162260d82",
           "name": "RWY 32",
           "airportConditions": "RUNWAY 32 IN USE. EXPECT RNAV APPROACH.",
-          "notams": "TWY Y IN PROCESS OF BEING CONVERTED TO STBY RWY. PILOTS ARE TO DISREGARD RWY TYPE MARKINGS ON TWY Y UNTIL FURTHER NOTICE. TWY Y IS NOT AVAILABLE FOR RUNWAY OPERATIONS.\r\nCODE F AIRCRAFT TAXIING VIA TWY H AND N TO STAND 12 TO DISREGARD MAX 65M SPAN WARNING",
-          "template": "FIMP ATIS [ATIS_CODE]\r\n[TIME]\r\nRWY 32 IN USE. EXP RNP Z APCH.\r\nDEPARTURES ADVISE IF BACKTRACK REQUIRED ON INITIAL CTC.\r\nPROVISION OF PDC VIA CPDLC TO DEPARTING AIRCRAFT IS NOT AVAILABLE.\r\n[WIND]\r\n[VIS]\r\n[PRESENT_WX]\r\nCLD [CLOUDS]\r\n[TEMP] / [DEW]\r\n[PRESSURE]\r\n[TREND]\r\n[NOTAMS]\r\nEND OF ATIS [ATIS_CODE]",
+          "notams": "TWY Y IN PROCESS OF BEING CONVERTED TO STBY RWY. PILOTS ARE TO DISREGARD RWY TYPE MARKINGS ON TWY Y UNTIL FURTHER NOTICE. TWY Y IS NOT AVAILABLE FOR RUNWAY OPERATIONS.\r\nCODE F AIRCRAFT TAXIING VIA TWY H AND @N TO STAND 12 TO DISREGARD MAX 65M SPAN WARNING",
+          "template": "FIMP ATIS [ATIS_CODE]\r\n[TIME]\r\nRWY 32 IN USE. EXP RNP Z APCH.\r\n[TL]\r\nDEPARTURES ADVISE IF BACKTRACK REQUIRED ON INITIAL CTC.\r\nPROVISION OF PDC VIA CPDLC TO DEPARTING AIRCRAFT IS NOT AVAILABLE.\r\n[WIND]\r\n[VIS]\r\n[PRESENT_WX]\r\nCLD [CLOUDS]\r\n[TEMP] / [DEW]\r\n[PRESSURE]\r\n[TREND]\r\n[NOTAMS]\r\nEND OF ATIS [ATIS_CODE]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
@@ -1990,6 +1990,21 @@
           "variableName": "FIMP",
           "text": "FIMP",
           "voice": "SIR SEE-WOO-SAH-GOOR RAHM-GOO-LAMB INTERNATIONAL"
+        },
+        {
+          "variableName": "Z",
+          "text": "Z",
+          "voice": "ZULU"
+        },
+        {
+          "variableName": "CLD",
+          "text": "CLD",
+          "voice": "CLOUD"
+        },
+        {
+          "variableName": "N",
+          "text": "N",
+          "voice": "NOVEMBER"
         }
       ],
       "airportConditionDefinitions": [],
